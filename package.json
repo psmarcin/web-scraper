@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Simple web scraper as a service worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/psmarcin/web-scraper.git"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "service",
+    "worker"
+  ],
+  "author": "psmarcin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psmarcin/web-scraper/issues"
+  },
+  "homepage": "https://github.com/psmarcin/web-scraper#readme"
+}
