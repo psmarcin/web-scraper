@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "web-scrape",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "build": "wrangler build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "psmarcin <ps@psmarcin.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/wrangler": "1.7.0",
+    "prettier": "^1.18.2"
+  }
+}
